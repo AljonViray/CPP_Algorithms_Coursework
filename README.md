@@ -1,2 +1,2 @@
-# ICS-46
-Homework from ICS 46 at UC Irvine with Prof. Ray Klefstad
+# C++ Algorithms Coursework
+Coursework from an Algorithms Analysis and Design C++ university class.
